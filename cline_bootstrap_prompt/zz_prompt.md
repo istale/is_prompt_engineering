@@ -19,3 +19,8 @@
 ---------------------------
 
 請依照 cline_flow_and_logic_from_code_selection 為這段程式碼產生 Flow + pseudo-code，先提案。
+
+
+-------------------------
+
+請依 cline_refactor_main_to_thin_orchestrator_dict_style 的規則幫我重構這段 main / handler。
