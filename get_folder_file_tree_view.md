@@ -1,0 +1,1 @@
+tree -L 3 -I "node_modules|.git|__pycache__|dist|build" > repo_tree.txt
